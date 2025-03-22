@@ -11,8 +11,8 @@ A device that uses the characteristics of a psychic phenomenon to detect the phe
 
 # Development environment
 - Software
-    - Arduino for Master Mode
-    - python for Slave mode
+    - Arduino
+    - python
 - Hardware
     - Arduino Uno
     - TMP36 ( temperature Senser )
